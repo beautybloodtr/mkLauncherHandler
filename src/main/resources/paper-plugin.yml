@@ -1,0 +1,4 @@
+name: mkLauncherHandler
+version: '1.0-SNAPSHOT'
+main: net.mineking.beautybloodtr.mkLauncherHandler.MkLauncherHandler
+api-version: '1.20'
